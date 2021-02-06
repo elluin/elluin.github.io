@@ -1,6 +1,7 @@
 body {
     background-image: url(../images/barkacsaruhaz-min.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 .tartalmacska {
