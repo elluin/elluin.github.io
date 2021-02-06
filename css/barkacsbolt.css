@@ -2,7 +2,6 @@ body {
     background-image: url(../images/barkacsaruhaz-min.jpg);
     background-size: cover;
     background-position: center;
-    background-position: fixd;
     background-attachment: fixed;
 }
 
